@@ -9,3 +9,6 @@ This app was specifically designed allowing me to fully comprehend the full step
 5. For build variant Select release
 6. Click Finish (Android Studio will now build your signed AAB)
 7. Go to Google Play Console and follow steps to upload your aab file you just generated
+
+
+<img width="300" height="700" alt="Image" src="https://github.com/user-attachments/assets/ec7740dc-c589-4047-baa0-4784d62ea691" />
