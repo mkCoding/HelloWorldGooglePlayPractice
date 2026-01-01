@@ -10,5 +10,17 @@ This app was specifically designed allowing me to fully comprehend the full step
 6. Click Finish (Android Studio will now build your signed AAB)
 7. Go to Google Play Console and follow steps to upload your aab file you just generated
 
+## Create Signing Key Image ##
 
+> Build > Generate Signed App Bundle or APK
+<img width="533" height="536" alt="Screenshot 2024-06-12 at 3 25 42 PM" src="https://github.com/user-attachments/assets/aaef10f0-3e45-4b0b-a0b4-a75c6751a1ac" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## App Screenshot ##
 <img width="300" height="700" alt="Image" src="https://github.com/user-attachments/assets/ec7740dc-c589-4047-baa0-4784d62ea691" />
